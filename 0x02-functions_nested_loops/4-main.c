@@ -3,7 +3,6 @@
 * main - check the code.
 *
 * Return: Always 0.
-* @c: the character to be checked
 */
 int main(void)
 {
